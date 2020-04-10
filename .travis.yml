@@ -3,5 +3,5 @@ services:
     - docker
 
 script:
-    - docker build -t mannydesigns/node .
-    - docker images mannydesigns/node
+    - docker build -t mestrada/node .
+    - docker images mestrada/node
